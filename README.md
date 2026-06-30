@@ -11,4 +11,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/itsankit52/DSA-SERIES/tree/master/0035-search-insert-position) |
+## String
+|  |
+| ------- |
+| [0520-detect-capital](https://github.com/itsankit52/DSA-SERIES/tree/master/0520-detect-capital) |
 <!---LeetCode Topics End-->
