@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/itsankit52/DSA-SERIES/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/itsankit52/DSA-SERIES/tree/master/0035-search-insert-position) |
+| [0189-rotate-array](https://github.com/itsankit52/DSA-SERIES/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/itsankit52/DSA-SERIES/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/itsankit52/DSA-SERIES/tree/master/0912-sort-an-array) |
 ## Binary Search
@@ -57,4 +58,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/itsankit52/DSA-SERIES/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/itsankit52/DSA-SERIES/tree/master/0189-rotate-array) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/itsankit52/DSA-SERIES/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
