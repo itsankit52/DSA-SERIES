@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/itsankit52/DSA-SERIES/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/itsankit52/DSA-SERIES/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/itsankit52/DSA-SERIES/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/itsankit52/DSA-SERIES/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/itsankit52/DSA-SERIES/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0912-sort-an-array](https://github.com/itsankit52/DSA-SERIES/tree/master/0912-sort-an-array) |
 ## Binary Search
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/itsankit52/DSA-SERIES/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/itsankit52/DSA-SERIES/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/itsankit52/DSA-SERIES/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/itsankit52/DSA-SERIES/tree/master/0350-intersection-of-two-arrays-ii) |
 ## String
 |  |
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/itsankit52/DSA-SERIES/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/itsankit52/DSA-SERIES/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/itsankit52/DSA-SERIES/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/itsankit52/DSA-SERIES/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0912-sort-an-array](https://github.com/itsankit52/DSA-SERIES/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
@@ -65,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/itsankit52/DSA-SERIES/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/itsankit52/DSA-SERIES/tree/master/0189-rotate-array) |
+| [0349-intersection-of-two-arrays](https://github.com/itsankit52/DSA-SERIES/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/itsankit52/DSA-SERIES/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Math
 |  |
@@ -75,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/itsankit52/DSA-SERIES/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/itsankit52/DSA-SERIES/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/itsankit52/DSA-SERIES/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Bit Manipulation
 |  |
