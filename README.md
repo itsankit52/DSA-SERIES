@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/itsankit52/DSA-SERIES/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/itsankit52/DSA-SERIES/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/itsankit52/DSA-SERIES/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/itsankit52/DSA-SERIES/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/itsankit52/DSA-SERIES/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/itsankit52/DSA-SERIES/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/itsankit52/DSA-SERIES/tree/master/0189-rotate-array) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/itsankit52/DSA-SERIES/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/itsankit52/DSA-SERIES/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/itsankit52/DSA-SERIES/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/itsankit52/DSA-SERIES/tree/master/0912-sort-an-array) |
@@ -96,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/itsankit52/DSA-SERIES/tree/master/0268-missing-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/itsankit52/DSA-SERIES/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
