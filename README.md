@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/itsankit52/DSA-SERIES/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/itsankit52/DSA-SERIES/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/itsankit52/DSA-SERIES/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/itsankit52/DSA-SERIES/tree/master/0560-subarray-sum-equals-k) |
 | [0912-sort-an-array](https://github.com/itsankit52/DSA-SERIES/tree/master/0912-sort-an-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/itsankit52/DSA-SERIES/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/itsankit52/DSA-SERIES/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/itsankit52/DSA-SERIES/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/itsankit52/DSA-SERIES/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/itsankit52/DSA-SERIES/tree/master/0560-subarray-sum-equals-k) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -126,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/itsankit52/DSA-SERIES/tree/master/0073-set-matrix-zeroes) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/itsankit52/DSA-SERIES/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
