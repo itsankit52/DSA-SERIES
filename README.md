@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/itsankit52/DSA-SERIES/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/itsankit52/DSA-SERIES/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/itsankit52/DSA-SERIES/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/itsankit52/DSA-SERIES/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/itsankit52/DSA-SERIES/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/itsankit52/DSA-SERIES/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/itsankit52/DSA-SERIES/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/itsankit52/DSA-SERIES/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/itsankit52/DSA-SERIES/tree/master/0560-subarray-sum-equals-k) |
 ## Trie
 |  |
