@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/itsankit52/DSA-SERIES/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/itsankit52/DSA-SERIES/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/itsankit52/DSA-SERIES/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/itsankit52/DSA-SERIES/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/itsankit52/DSA-SERIES/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/itsankit52/DSA-SERIES/tree/master/0645-set-mismatch) |
 | [0912-sort-an-array](https://github.com/itsankit52/DSA-SERIES/tree/master/0912-sort-an-array) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/itsankit52/DSA-SERIES/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/itsankit52/DSA-SERIES/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/itsankit52/DSA-SERIES/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0493-reverse-pairs](https://github.com/itsankit52/DSA-SERIES/tree/master/0493-reverse-pairs) |
 ## String
 |  |
 | ------- |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/itsankit52/DSA-SERIES/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/itsankit52/DSA-SERIES/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/itsankit52/DSA-SERIES/tree/master/0215-kth-largest-element-in-an-array) |
+| [0493-reverse-pairs](https://github.com/itsankit52/DSA-SERIES/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/itsankit52/DSA-SERIES/tree/master/0912-sort-an-array) |
 ## Sorting
 |  |
@@ -74,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/itsankit52/DSA-SERIES/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/itsankit52/DSA-SERIES/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -154,4 +158,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/itsankit52/DSA-SERIES/tree/master/0014-longest-common-prefix) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/itsankit52/DSA-SERIES/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/itsankit52/DSA-SERIES/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/itsankit52/DSA-SERIES/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/itsankit52/DSA-SERIES/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
