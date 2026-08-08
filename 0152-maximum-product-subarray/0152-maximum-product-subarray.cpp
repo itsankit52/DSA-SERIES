@@ -1,8 +1,23 @@
 class Solution {
 public:
     int maxProduct(vector<int>& nums) {
-        int n = nums.size();
-        int maxi = INT_MIN;
+
+        // Optimal : O(n)
+        int currentMax = nums[0], currentMin = nums[0], ans = nums[0];
+
+        for (int i = 1; i < nums.size(); i++) {
+            if (nums[i] < 0)
+                swap(currentMax, currentMin);
+
+            currentMax = max(nums[i], currentMax * nums[i]);
+            currentMin = min(nums[i], currentMin * nums[i]);
+
+            ans = max(ans, currentMax);
+        }
+        return ans;
+
+        // int n = nums.size();
+        // int maxi = INT_MIN;
         // Brute : O(n^3)
         // for (int i = 0; i < n; i++) {
         //     for (int j = i; j < n; j++) {
@@ -15,14 +30,13 @@ public:
         // }
 
         // Better than brute force : O(n^2)
-        for (int i = 0; i < n; i++) {
-            int p = 1;
-            for (int j = i; j < n; j++) {
-                p *= nums[j];
-                maxi = max(maxi, p);
-            }
-        }
-        return maxi;
-
+        // for (int i = 0; i < n; i++) {
+        //     int p = 1;
+        //     for (int j = i; j < n; j++) {
+        //         p *= nums[j];
+        //         maxi = max(maxi, p);
+        //     }
+        // }
+        // return maxi;
     }
 };
