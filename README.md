@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/itsankit52/DSA-SERIES/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/itsankit52/DSA-SERIES/tree/master/0912-sort-an-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/itsankit52/DSA-SERIES/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/itsankit52/DSA-SERIES/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Binary Search
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/itsankit52/DSA-SERIES/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0493-reverse-pairs](https://github.com/itsankit52/DSA-SERIES/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/itsankit52/DSA-SERIES/tree/master/0704-binary-search) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/itsankit52/DSA-SERIES/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## String
 |  |
 | ------- |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/itsankit52/DSA-SERIES/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/itsankit52/DSA-SERIES/tree/master/0229-majority-element-ii) |
 | [0912-sort-an-array](https://github.com/itsankit52/DSA-SERIES/tree/master/0912-sort-an-array) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/itsankit52/DSA-SERIES/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Quickselect
 |  |
 | ------- |
