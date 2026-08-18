@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/itsankit52/DSA-SERIES/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/itsankit52/DSA-SERIES/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/itsankit52/DSA-SERIES/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/itsankit52/DSA-SERIES/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/itsankit52/DSA-SERIES/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/itsankit52/DSA-SERIES/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/itsankit52/DSA-SERIES/tree/master/0704-binary-search) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/itsankit52/DSA-SERIES/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/itsankit52/DSA-SERIES/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0493-reverse-pairs](https://github.com/itsankit52/DSA-SERIES/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/itsankit52/DSA-SERIES/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/itsankit52/DSA-SERIES/tree/master/0704-binary-search) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/itsankit52/DSA-SERIES/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## String
