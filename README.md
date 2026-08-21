@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/itsankit52/DSA-SERIES/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/itsankit52/DSA-SERIES/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/itsankit52/DSA-SERIES/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/itsankit52/DSA-SERIES/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/itsankit52/DSA-SERIES/tree/master/0912-sort-an-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/itsankit52/DSA-SERIES/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/itsankit52/DSA-SERIES/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/itsankit52/DSA-SERIES/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/itsankit52/DSA-SERIES/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/itsankit52/DSA-SERIES/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/itsankit52/DSA-SERIES/tree/master/0875-koko-eating-bananas) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/itsankit52/DSA-SERIES/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## String
 |  |
