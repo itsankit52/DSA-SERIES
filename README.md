@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/itsankit52/DSA-SERIES/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/itsankit52/DSA-SERIES/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/itsankit52/DSA-SERIES/tree/master/0912-sort-an-array) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/itsankit52/DSA-SERIES/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/itsankit52/DSA-SERIES/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/itsankit52/DSA-SERIES/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3875-construct-uniform-parity-array-i](https://github.com/itsankit52/DSA-SERIES/tree/master/3875-construct-uniform-parity-array-i) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/itsankit52/DSA-SERIES/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/itsankit52/DSA-SERIES/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/itsankit52/DSA-SERIES/tree/master/0875-koko-eating-bananas) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/itsankit52/DSA-SERIES/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/itsankit52/DSA-SERIES/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## String
 |  |
