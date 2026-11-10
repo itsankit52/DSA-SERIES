@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/itsankit52/DSA-SERIES/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/itsankit52/DSA-SERIES/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/itsankit52/DSA-SERIES/tree/master/0410-split-array-largest-sum) |
+| [0441-arranging-coins](https://github.com/itsankit52/DSA-SERIES/tree/master/0441-arranging-coins) |
 | [0493-reverse-pairs](https://github.com/itsankit52/DSA-SERIES/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/itsankit52/DSA-SERIES/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/itsankit52/DSA-SERIES/tree/master/0704-binary-search) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/itsankit52/DSA-SERIES/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/itsankit52/DSA-SERIES/tree/master/0268-missing-number) |
+| [0441-arranging-coins](https://github.com/itsankit52/DSA-SERIES/tree/master/0441-arranging-coins) |
 | [3875-construct-uniform-parity-array-i](https://github.com/itsankit52/DSA-SERIES/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
